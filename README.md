@@ -1,6 +1,10 @@
-Informations -0.00 ms 
+# RichPresence
+Fivem - RichPresence ESX/QBCORE
 
-**Dependencies**
 
--es_extended 
--ox_lib
+# Features
+- 0.00ms
+
+# Dependency
+- ESX / QBCORE
+
